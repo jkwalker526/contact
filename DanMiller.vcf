@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Daniel Miller, AIA, CSI, CDT
+N:Miller;Daniel;;;
+TITLE:President
+ORG:TAC Architectural Group Inc.
+TEL;TYPE=work,voice:207-922-1061
+TEL;TYPE=cell,voice:207-659-2944
+EMAIL:dan.miller@tac-arch.com
+URL:https://www.tac-arch.com
+NOTE:
+END:VCARD
